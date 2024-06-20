@@ -4,7 +4,7 @@
 
   <div align="left">
   <p>
-   I studied Computer Information Systems at the International College at Payap University in Chiang Mai, Thailand and graduated in October 2013. I am proficient in a variety of front-end technologies, including HTML, CSS, and JavaScript. I am also familiar with a variety of back-end technologies, including Node. js and Express. js.</p>
+   I studied Computer Information Systems at the International College at Payap University in Chiang Mai, Thailand and graduated in October 2013. I am proficient in a variety of front-end technologies, including Next.js. I am also familiar with a variety of back-end technologies, including Node. js and Express. js.</p>
 
 <p>I have worked for Irrawaddy Media for almost five years, from August 2010 to June 2015 as an outstanding Webmaster in Wordpress.</p>
 
